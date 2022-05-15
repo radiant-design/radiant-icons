@@ -3,7 +3,7 @@
   "version": "2.0.0-alpha.0",
   "description": "Radiant design library",
   "type": "module",
-  "repository": "http://github.com/navneetlal/radiant-design-system",
+  "repository": "http://github.com/radiant-design/radiant-icons",
   "author": "Navneet Lal Gupta <navneetlalg@gmail.com>",
   "license": "MIT",
   "main": "./build/index.js",
