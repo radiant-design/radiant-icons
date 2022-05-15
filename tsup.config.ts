@@ -10,7 +10,10 @@ const baseConfig: Options = {
   format: ['esm'],
   splitting: true,
   shims: false,
-  dts: true
+  dts: true,
+  plugins: [{
+    name: 'esbuild-plugin-svgj'
+  }]
 }
 
 export default defineConfig([
