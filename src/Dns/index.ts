@@ -1,1 +1,1 @@
-export { default } from './Dns'
+export { default } from "./Dns";

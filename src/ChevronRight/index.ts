@@ -1,1 +1,1 @@
-export { default } from './ChevronRight'
+export { default } from "./ChevronRight";

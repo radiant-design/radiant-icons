@@ -1,1 +1,1 @@
-export { default } from './Bell'
+export { default } from "./Bell";

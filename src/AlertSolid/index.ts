@@ -1,1 +1,1 @@
-export { default } from './AlertSolid'
+export { default } from "./AlertSolid";

@@ -1,1 +1,1 @@
-export { default } from './LocationSolid'
+export { default } from "./LocationSolid";

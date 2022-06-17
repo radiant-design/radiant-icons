@@ -1,1 +1,1 @@
-export { default } from './MobileSolid'
+export { default } from "./MobileSolid";

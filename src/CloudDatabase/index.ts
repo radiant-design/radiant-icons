@@ -1,1 +1,1 @@
-export { default } from './CloudDatabase'
+export { default } from "./CloudDatabase";

@@ -1,1 +1,1 @@
-export { default } from './LocationOutline'
+export { default } from "./LocationOutline";

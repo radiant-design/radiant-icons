@@ -1,1 +1,1 @@
-export { default } from './QuestionSolid'
+export { default } from "./QuestionSolid";

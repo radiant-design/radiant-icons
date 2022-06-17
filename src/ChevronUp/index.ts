@@ -1,1 +1,1 @@
-export { default } from './ChevronUp'
+export { default } from "./ChevronUp";

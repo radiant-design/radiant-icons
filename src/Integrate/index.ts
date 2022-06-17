@@ -1,1 +1,1 @@
-export { default } from './Integrate'
+export { default } from "./Integrate";
