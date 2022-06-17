@@ -1,6 +1,6 @@
 {
   "name": "@intugine-technologies/radiant-icons",
-  "version": "0.0.0-development",
+  "version": "0.0.1-development",
   "description": "Radiant design library",
   "type": "module",
   "repository": "http://github.com/radiant-design/radiant-icons",
