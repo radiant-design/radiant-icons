@@ -42,6 +42,7 @@ export { default as Settings } from "./Settings";
 export { default as Time } from "./Time";
 export { default as Users } from "./Users";
 export { default as ArrowDown} from "./ArrowDown";
-export { default as Entry } from "./Entry";
+export { default as Entry } from "./Enter";
 export { default as ArrowUp} from "./ArrowUp";
-
+export { default as Success} from "./Success";
+export { default as Balance} from "./ArrowUp";
